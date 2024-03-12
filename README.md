@@ -1,8 +1,8 @@
-# calculator-web-app
-Calculator web app for every day use.
+<h1>Calculator Web Application</h1>
+<h2>Description</h2>
+<p>I've really enjoyed building this project because it is a great JavaScript challenge! I plan to continue adding features to this application and begin using it as an everyday calculator option specially designed for me!</p>
 
 <h2>Intentions:</h2>
-<p>I've really enjoyed building this project because it is a great JavaScript challenge! I plan to continue adding features to this application and begin using it as an everyday calculator option specially designed for me!</p>
 <p>Here are some features I look to add in the future:</p>
 <ul>
   <li>Add parentheses to correctly perform order of operations. This will require programming recognition of the parentesis and completing those calculations first</li>
